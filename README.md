@@ -24,3 +24,10 @@
 <h2> Collision assists</h2>
 <h3> Foward collsion assist uses sensors and cameras to detect a possible chance of front collisions and will make a sound. If action not taken when sound is played then brakes will autmotically apply. If not enought time is left to apply brakes the car may steer into the other lane to avoid the accident as long if there is not car in the other lane.</h3>
 
+<img src="foward collsion assist" width="400" height="200" />
+<img src="" width="400" height="200" />
+
+<h3> blind spot assist</h3>
+<h4> Everytime you apply you blinkers a camera of your side view and blindspot will appears on your cluster showing if it is safe to change lanes. If a car is passing by the car will beep if the driver stil decides to change lane the car will steer back into the lane or stop.</h4>
+<img src="blind spot assist" width="400" height="200" />
+
