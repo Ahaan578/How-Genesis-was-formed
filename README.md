@@ -31,3 +31,5 @@
 <h4> Everytime you apply you blinkers a camera of your side view and blindspot will appears on your cluster showing if it is safe to change lanes. If a car is passing by the car will beep if the driver stil decides to change lane the car will steer back into the lane or stop.</h4>
 <img src="blind spot assist" width="400" height="200" />
 
+<h2> Highway assist and Cruise control </h2>
+<h3> Highway assits is a features that keeps you car in the center of the lane. Giving the driver peace of mind for the driver. Depending on the model the car also might automatically change lanes when safe when it is safe to do. Cruise control keep your at the speed limit you chose or the car infront of you is going. Only if the speed of the car ahead of us is going according to the speed limit. When the from car breaks your car will also slow down and always maintain a sufficent gap between both cars. </h3>
