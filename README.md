@@ -32,8 +32,9 @@
 <img src="blind spot assist" width="400" height="200" />
 
 <h2> Highway assist and Cruise control </h2>
-<h3> Highway assits is a features that keeps you car in the center of the lane. Giving the driver peace of mind for the driver. Depending on the model the car also might automatically change lanes when safe when it is safe to do. Cruise control keep your at the speed limit you chose or the car infront of you is going. Only if the speed of the car ahead of us is going according to the speed limit. When the from car breaks your car will also slow down and always maintain a sufficent gap between both cars. </h3>
+<h3> Highway assits is a features that keeps you car in the center of the lane. Giving the driver peace of mind for the driver. Depending on the model the car also might automatically change lanes when safe when it is safe to do. Cruise control keep your at the speed limit you chose or the car infront of you is going. Only if the speed of the car ahead of us is going according to the speed limit. When the from car breaks your car will also slow down and always maintain a sufficent gap between both cars. Also coming to a steady stop when the car ahead does or increasing speed when needed. </h3>
 
-<img src="auto lance change" width="400" height="200" />
+<img src="auto lance change" width="400" height="200" /><img src="HDA" width="400" height="200" />
 
-<img src="HDA" width="400" height="200" />
+
+
